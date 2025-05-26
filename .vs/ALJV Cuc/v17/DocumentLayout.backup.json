@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\febr2\\Desktop\\ALJV Cuc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D38DE0-6991-04B4-C9DF-A5DFAC1A9656}|Assembly-CSharp.csproj|c:\\users\\febr2\\desktop\\aljv cuc\\assets\\storymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D38DE0-6991-04B4-C9DF-A5DFAC1A9656}|Assembly-CSharp.csproj|solutionrelative:assets\\storymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D38DE0-6991-04B4-C9DF-A5DFAC1A9656}|Assembly-CSharp.csproj|C:\\Users\\febr2\\Desktop\\ALJV Cuc\\assets\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D38DE0-6991-04B4-C9DF-A5DFAC1A9656}|Assembly-CSharp.csproj|solutionrelative:assets\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D38DE0-6991-04B4-C9DF-A5DFAC1A9656}|Assembly-CSharp.csproj|C:\\Users\\febr2\\Desktop\\ALJV Cuc\\assets\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D38DE0-6991-04B4-C9DF-A5DFAC1A9656}|Assembly-CSharp.csproj|solutionrelative:assets\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "C:\\Users\\febr2\\Desktop\\ALJV Cuc\\Assets\\MusicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\MusicManager.cs",
+              "ToolTip": "C:\\Users\\febr2\\Desktop\\ALJV Cuc\\Assets\\MusicManager.cs",
+              "RelativeToolTip": "Assets\\MusicManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:53:00.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\febr2\\Desktop\\ALJV Cuc\\Assets\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\UIManager.cs",
+              "ToolTip": "C:\\Users\\febr2\\Desktop\\ALJV Cuc\\Assets\\UIManager.cs",
+              "RelativeToolTip": "Assets\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T19:15:49.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\febr2\\Desktop\\ALJV Cuc\\Assets\\StoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\StoryManager.cs",
+              "ToolTip": "C:\\Users\\febr2\\Desktop\\ALJV Cuc\\Assets\\StoryManager.cs",
+              "RelativeToolTip": "Assets\\StoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:03:00.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
